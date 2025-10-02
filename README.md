@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Python, ML, DL and AI**
+- 💬 Also I have a passion for **Python, ML, DL and AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
